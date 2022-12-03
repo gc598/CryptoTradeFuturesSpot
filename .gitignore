@@ -1,0 +1,6 @@
+__pycache__/
+crypto_data/
+crypto_futures_data/
+crypto_data_bitfinex/
+crypto_trade_alpha_Digital_ocean_pub_key
+crypto_alpha_Digital_Ocean_pr_key.ppk
